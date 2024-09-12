@@ -16,4 +16,4 @@
   + Button: 16px
   
 ## Ảnh minh hoạ:
-![alt text for screen readers](https://lh3.googleusercontent.com/chat_attachment/AP1Ws4tX_KsiVnCNzmWP2bDezMXYu0A0LOf3RPClFMYTnSN18IzF6BetEs0E89DxD5rO7HVHmRegX7DMkY8saD6Csjk7otaZ_2mutzUK65y-B5YiRnrbsDreIXZmwSEL4mM-5u9Wk5Fmic1ie1pug9h-WKiSB22Gc0XlWIr1EmmhZwO3JXbYB9zojObAglPyA-cJgl4kqAA1bdhjqQC8_b6Y9kC30LCr9aCOoEd4dql3kyrVpLihqacPXZQzga7RrAji38sw4ea_fycMy6MB7pojfidKTqCDhP2BgpDNjuMDM_TUuhitNRswECl_1Os3jU6Alkg=w1920-h1017 "Text to show on mouseover")
+![alt text for screen readers](https://cdn.shopify.com/s/files/1/0798/2271/7218/files/test.png?v=1726123387 "Text to show on mouseover")
