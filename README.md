@@ -12,5 +12,6 @@
              + Subheading: 19px
              + Label: 16px
              + Button: 16px
+
 ##Ảnh minh hoạ:
-![beae_test](https://chat.google.com/u/0/api/get_attachment_url?url_type=FIFE_URL&content_type=image%2Fpng&attachment_token=AOo0EEXlUsZy612GBcw9CqJBwq1wBrwqDgM%2F87NTbpKJVBemQJGParDSFj8C7B4dgvYy4fLPC25rQD%2BBrsTPvNj55%2Fv%2FwEKwLL8T9DKbwWvBp1Euo2n5ol41QUOGTrDk6Qxewtlljajzr7UH7hzi3oe8qGqFMNAt9VxQ4osF5so9TE4L%2BJ5ToVR7M8LjnLyK3M17ZUMIy48IblywVygLg%2BU8OEKTouKDlQL%2BaJ0vhLmD%2BjdPp2Fp%2BaC3WCRZRMndP%2FX%2B30ULescH88DZBbhxjruIRx3ja4ldOADQV0OM%2F%2B%2BEPF8skMK6YXNh6XzuJLIiRC8nM9rd3pfsTq0mtW5TO3ewtC4Qh72gsSSoo2Uh1WGvkGnX6tKei9J1qYwxPVsGhXwO2Fb%2BxYPCJH7cwg4ZBcqA%2BGQVUmjFkO2iEhCcThOo3ukQVc9RUAwgZyq%2FNC6OlXsjKpy7COhh1dsZ8M5rntW%2Fcghng5mfMyWaQ1nadkO7jdGH6TUEDxr8HbHQE9svFkNSTa9wJY8Ec1W8W%2BAduMX3dCkw%2Be4IQ%2FioicZnK2%2BAl4boNhPqsVWuaAagF%2BGsTuU%3D&sz=w1920-h1017 "Beae test image")
+![alt text for screen readers](https://lh3.googleusercontent.com/chat_attachment/AP1Ws4tX_KsiVnCNzmWP2bDezMXYu0A0LOf3RPClFMYTnSN18IzF6BetEs0E89DxD5rO7HVHmRegX7DMkY8saD6Csjk7otaZ_2mutzUK65y-B5YiRnrbsDreIXZmwSEL4mM-5u9Wk5Fmic1ie1pug9h-WKiSB22Gc0XlWIr1EmmhZwO3JXbYB9zojObAglPyA-cJgl4kqAA1bdhjqQC8_b6Y9kC30LCr9aCOoEd4dql3kyrVpLihqacPXZQzga7RrAji38sw4ea_fycMy6MB7pojfidKTqCDhP2BgpDNjuMDM_TUuhitNRswECl_1Os3jU6Alkg=w1920-h1017 "Text to show on mouseover")
