@@ -10,7 +10,7 @@
 ## Tài liệu:
 - Font sử dụng: https://fonts.google.com/specimen/Inter
 - Font size:
-  + Heading: 16px
+  + Heading: 57px
   + Subheading: 19px
   + Label: 16px
   + Button: 16px
